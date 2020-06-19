@@ -1,0 +1,9 @@
+{
+    "require": {
+        "aliyuncs/oss-sdk-php": "^2.3",
+      "ext-json": "*",
+      "ext-redis": "*",
+      "ext-openssl": "*",
+      "ext-pdo": "*"
+    }
+}
